@@ -74,6 +74,21 @@ ol li {
     margin: 5px 0px;
 }
 
+ul {
+    width: 1rem;
+    list-style-position: inside;
+    padding-left: 0px;
+    margin: 15px 0px;
+    background-color: royalblue;
+    border-radius: 4px;
+}
+
+ul li {
+    padding: 6px 10px;
+    line-height: 1.5px;
+    margin: 5px 0px;
+}
+
 img, video, iframe {
   max-width: 100%;
   height: auto;
