@@ -62,8 +62,10 @@ summary {
 
 
 ol {
+    display: inline-block;
     list-style-position: inside;
     padding-left: 0px;
+    padding: 15px 20px; 
     margin: 15px 0px;
     background-color: paleturquoise;
     border-radius: 4px;
@@ -76,8 +78,10 @@ ol li {
 }
 
 ul {
+    display: inline-block;
     list-style-position: inside;
     padding-left: 0px;
+    padding: 15px 20px; 
     margin: 15px 0px;
     background-color: royalblue;
     border-radius: 4px;
