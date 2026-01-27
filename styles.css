@@ -1,0 +1,16 @@
+.current {
+    background-color: gray;
+}
+
+
+.nav-bar {
+    background-color: black;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 5;
+}
+
+.nav-bar li a {
+    color: white;
+}

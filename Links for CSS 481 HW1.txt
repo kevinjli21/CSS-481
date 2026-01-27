@@ -1,0 +1,4 @@
+Links for CSS 481 HW1
+Github Repo:https://github.com/kevinjli21/CSS-481-hw1
+
+Github pages link:https://kevinjli21.github.io/CSS-481-hw1/
