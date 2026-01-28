@@ -34,10 +34,6 @@ body {
     background-attachment: fixed;
 }
 
-.gif-box {
-    min-height: 3rem;
-}
-
 h1 {
     font-family: "Inter", "Segoe UI", Roboto, sans-serif;
     font-size: 2rem;
