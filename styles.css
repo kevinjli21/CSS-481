@@ -23,11 +23,16 @@
 }
 
 body {
-    background-image: url("websitebg.jpg");
+    background-image: url("bglight.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+}
+
+.gif-box {
+    gap: 15px;
+    justify-content: center;
 }
 
 h1 {
